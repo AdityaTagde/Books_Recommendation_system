@@ -4,9 +4,9 @@
 This is a book recommendation system built using Streamlit. It suggests books based on user input and displays the top 50 most popular books.
 
 ## 🚀 Features
-- 📖 **Top 50 Books:** Displays a list of the 50 most popular books.
-- 🔍 **Book Recommender:** Suggests books similar to the one selected by the user.
-- 🎨 **User-Friendly Interface:** Designed with an intuitive UI using Streamlit.
+- **Top 50 Books:** Displays a list of the 50 most popular books.
+- **Book Recommender:** Suggests books similar to the one selected by the user.
+-  **User-Friendly Interface:** Designed with an intuitive UI using Streamlit.
 
 ## 🛠 Installation
 1. Clone the repository:
