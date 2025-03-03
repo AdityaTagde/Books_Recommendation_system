@@ -10,7 +10,7 @@ The Book Recommendation System is an intelligent application designed to help us
 ## 🛠 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/book-recommender.git
+   git clone https://github.com/AdityaTagde/Books_Recommendation_system.git
    cd book-recommender
    ```
 2. Install the required dependencies:
