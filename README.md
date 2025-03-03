@@ -33,11 +33,11 @@ streamlit run apps.py
 - Pickle
 
 ## 📂 Files
-- `apps.py` 🎯: Main application script.
+- `apps.py` : Main application script.
 - `books.pkl` 📚: Pickle file containing book data.
-- `pt.pkl` 🏗: Pickle file with preprocessed data.
+- `pt.pkl` : Pickle file with preprocessed data.
 - `similarity_score.pkl` 📈: Pickle file containing similarity scores for recommendations.
-- `top_50.pkl` 🏆: Pickle file containing the top 50 most popular books.
+- `top_50.pkl` : Pickle file containing the top 50 most popular books.
 
 ## 🎯 Usage
 1. Open the web app in your browser after running the command.
