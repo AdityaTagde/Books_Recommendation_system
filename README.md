@@ -53,8 +53,8 @@ streamlit run apps.py
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/AdityaTagde/Books_Recommendation_system/blob/main/b1%20(1).png)
+![App Screenshot](https://github.com/AdityaTagde/Books_Recommendation_system/blob/main/b1%20(2).png)
+![App Screenshot](https://github.com/AdityaTagde/Books_Recommendation_system/blob/main/b3.png)
+![App Screenshot](https://github.com/AdityaTagde/Books_Recommendation_system/blob/main/b4.png)
 
